@@ -130,7 +130,7 @@
     "@types/jasmine": "^2.5.54",
     "@types/node": "^8.0.28",
     "angular2-template-loader": "^0.6.0",
-    "autoprefixer": "^7.1.4",
+    "autoprefixer": "^10.5.4",
     "awesome-typescript-loader": "^3.2.3",
     "clean-css": "^4.2.1",
     "clean-webpack-plugin": "^0.1.15",
